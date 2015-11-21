@@ -1,0 +1,2 @@
+# Receta
+Angular +  Rails 
